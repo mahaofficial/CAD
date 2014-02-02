@@ -16,6 +16,8 @@ Install:
 - Attach yii_tour.sql in directory
 - Configure in protected/config/main.php
 
+<a href='https://pledgie.com/campaigns/23987'><img alt='Click here to lend your support to: CAD system and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/23987.png?skin_name=chrome' border='0' ></a>
+
 
 
 
