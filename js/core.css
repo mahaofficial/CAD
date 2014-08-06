@@ -5,6 +5,13 @@
 	outline:none;
 	color:#222;	
 }
+#car{
+	font-size:12px;
+	font-family:Arial,Verdana,Sans-serif;
+	text-align:center;
+	padding:30px 0;
+	line-height:21px;
+}
 body {
 	font-size:12px;
 	font-family:Arial,Verdana,Sans-serif;
