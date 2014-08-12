@@ -4,6 +4,8 @@ COMMON GIRL
 $yii=dirname(__FILE__).'/../../framework/yii.php';
 $yii=dirname(__FILE__).'/../../framework/yii.php';
 
+The line code 3
+
 /**
  * This is the bootstrap file for test application.
  * This file should be removed when the application is deployed for production.
