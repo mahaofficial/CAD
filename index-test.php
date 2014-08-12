@@ -1,6 +1,8 @@
 <?php
 
 COMMON GIRL
+$yii=dirname(__FILE__).'/../../framework/yii.php';
+$yii=dirname(__FILE__).'/../../framework/yii.php';
 
 /**
  * This is the bootstrap file for test application.
